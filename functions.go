@@ -21,10 +21,12 @@ func area(r float64) float64 {
 	return math.Pi * r * r
 }
 
+//different return types
+
 func main() {
 	// sayGreeting("Pretty")
 	// cycle([]string{"cloud", "tifa", "mummy"}, sayGreeting)
-	a1 := area(10.5)
-	fmt.Println(a1)
+	// a1 := area(10.5)
+	// fmt.Println(a1)
 
 }
