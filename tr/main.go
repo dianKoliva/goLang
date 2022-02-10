@@ -1,10 +1,9 @@
 package tr
 
-import SayH
+// import SayH
 
-func main() {
+// func main() {
 
-	SayH("mario")
+// 	SayH("mario")
 
-}
-
+// }
