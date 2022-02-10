@@ -4,6 +4,7 @@ import "fmt"
 
 func upName(x *string) {
 
+	//it chages the orriginal name value
 	*x = "huhho"
 
 }
